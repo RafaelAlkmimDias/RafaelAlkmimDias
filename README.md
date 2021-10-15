@@ -1,7 +1,7 @@
 👋 Hi, I’m Rafael de Alkmim Dias
 
 I Like science and how we can use tecnology to make great things. 
-Currently I am learning React and Nodejs and improving some soft skills.
+Currently I am a front software working with reactjs.
 
 If you want, you can find me in:
 
